@@ -3,41 +3,52 @@
 ###    see https://github.com/markdalgleish/presentation-a-bespoke-ecosystem/blob/master/src/index.jade for source
 ###
 
-title:     SDG Ecosystem
-subtitle:  Sustainable Development Goals _and your opensourcecode_
+title:     SDG Marketplace  
+subtitle:  Sustainable Development Goals Ecosystem
 author:    Roy Leon
 date:      November 9, 2018
 layout:    bespoke
 ---
 
 
-## UP20 <br /> "Your social program marketplace"
+## UP20 <br /> is a Social Program Marketplace
 
 ## UP20 boldly facing the <i>uncanny-rift</i><br /> ...of the (uncanny) Digital-Divide 
 
 ![The Uncanny Valley](https://images.newscientist.com/wp-content/uploads/2018/06/12140440/gettyimages-956748138-800x533.jpg)
+ 
  
  ## Uncanny
  ![O OMG OMEGA]http://2.bp.blogspot.com/QoimLCgqEUYj0yqbgHWH9F6z6oP5Srrg3O51sAxllW1iqnOe3w3fBNPo7mEo_-jhsoJSsqxbFpxO=s1600)
  
  - rifts: both finite and infinite
 
+
 ## By promiting open-source best-practices in the social realms
 
 - infinite social realms
 ![unicorns](https://cdn.tutsplus.com/webdesign/uploads/2014/01/spirit-animal.jpg)
 
-## JOIN us as contirbutors and start-up this _funky_ community
+## JOIN us as contirbutors and start-up our <i>funky</i> community
 
 ## CSR | Corporate Social Responsibility
 
- So you're telling me...
+ So you're telling me...  
+  
  <img src="http://www.quickmeme.com/img/03/03bdfeb0940d49b4e2321e5f63df38cb376e59289cb1a25fffa38ee303a4c2cc.jpg" width="200" height="200" />
  
-## Greenwashing
+ 
+## Downside | Greenwashing
 
-Major issue in the social dimension
- <img src="http://www.theglobalbeauty.com/wp-content/uploads/2016/10/image221-washed.jpeg" width="200" height="200" />
+Major issue in the social dimension  
+<img src="http://www.theglobalbeauty.com/wp-content/uploads/2016/10/image221-washed.jpeg" width="200" height="200" />
+
+
+## Sunny-Side | Ecosystems
+
+Social Progams today develop their own growth strategies
+<img src="http://nightflight.com/wp-content/uploads/CHARITY-WATER-2-425x431.jpg" width="200" height="200" />
+
 
 ## What the SDG is all about?
 
@@ -48,11 +59,12 @@ Major issue in the social dimension
  - 2-step _'Deadlines:'_ 2020, 2030
 
 
-## They're Setting the course for the next decade
+## Let's Set the course for the next decade(s)
 
  - Adopting SDG means: *Duty of SDG Reporting (country)*
  - Corporates and Countries have to work together
- - Parameters are presets of specific best-practices
+ - Parameters are presets
+ - Programs develop specific best-practices
 
 
 ## SDG features over time:
@@ -64,29 +76,32 @@ Major issue in the social dimension
 - Acquire and run programs
 
 
-## Program first | by design
+## Social-Programs meets opensource community
 
 you can *share* social programs the same way!
 _using markdown_ makes publishing easy
 
+*Online Repo rules* so you never make another ppt.
+
 ``` js
-//pseudo-code
-social.from('#mySocialProgram', [
+//some pseudo-code
+our.social.content('#mySocialProgram', [
   country()
   goals(),
   keys(),
   actors(),
-  outlets('NGO, GOV, COM, CS-JV'),
   media('THIS IS IMPORTANT!'),
-  instance('Penguin-August-2018')
+  instance('Penguin-August-2018'),
   etc...
 ]);
 ```
 
 
-## Every instance you create
+## Forking Social-Programs made easy
 
-is a separate module of the original one
+Every instance you create 
+now lives in the land of code   
+as a separate module of the original one
 
 ``` js
 //pseudo-code
@@ -98,9 +113,13 @@ var index  = require('SDG-index'),
     etc...
 ```
 
-you can share any content on opensource platforms
+plus, you can share *_any_* content on nifty opensource platforms
 
-## Social Programs _have_ functions too
+## Big-Data | "Show me the data"
+
+Many govs adopt an Open-Data Policy (US, IL, EU..)  
+And make it accessible as RESTful/API
+[18F Blog | Autoring APIs](https://18f.gsa.gov/blog/)
 
 ``` js
 //pseudo-code
@@ -117,13 +136,13 @@ social.module.exports = function(myData, yourData) {
 ## An API to track KPI's
 
 ![SDG Index](https://dashboards.sdgindex.org/#/)
-- Using it teaches you how it works
+- Global datasets by country from World Bank 
 - Driven by Open-data. Powered by research institute
 - Actors are encouraged to create source-code and APIs
 * [Bonus: F18 Authoring API](https://18f.gsa.gov/)
 
 
-## Authoring experience?
+## 2018 | The Challenge
 
 UP20 Aims at *Bridging the Digital Divide*
 we encourage...
@@ -133,18 +152,34 @@ we encourage...
 => Marketplace for Social Innovation (!)
 
 
-## Perfect for collaborating<br />
+## 2020 | Authoring Experience Complete
+
+UP20 is based on the belief together we can
+  - Make better use of opensource methods, ethics
+  - Reach wide audiences and resourceful social innovators
+  - Teach people how to overcome the opensource learning curve
+  - And how to become successful activators and facilitators
+  > For the best authoring experience and data handeling
+
+## Challenges | Perfect for collaborating yet..
+
 > remember - no perfect solution
+  - new strategy
+  - need contributors
+  - resourcefulness
 
+## In Conclusion | Repos provide a safe space for your crazy experiments
 
-## Repos provide a safe space for your crazy experiments
 *Best-Practices:* 
- - development process
- - open-data ^ open-source
- - versions
- - collaborators
-
-## Managing reports and collaborations simplified across the globe
+ - sharing ideas
+ - working together
+ - community owning the development pipeline
+ - open-data ^ open-source => open sesame
+ - versions, verifications, validations
+ - collaborators become communities
+ - managing reports and graphing
+ - simplified access 
+ - across the globe
 
 
 ## Great for maintenance mode
@@ -155,5 +190,9 @@ we encourage...
 - You get to keep your sanity
 
 
-## Make your day. <br /> Start your first PR today...
+## Make our day. <br /> 
+
+![Become Resourceful](https://memegenerator.net/img/instances/67326442/open-source-needs-you.jpg)
+
+Start your first PR today...
 
