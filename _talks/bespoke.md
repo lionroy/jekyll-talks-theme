@@ -13,23 +13,34 @@ layout:    bespoke
 
 ## UP20 <br /> "Your social program marketplace"
 
-## UP20 boldly facing the uncanny-rift <br /> ...of the Digital-Divide 
- - (remember it's finite)
+## UP20 boldly facing the <i>uncanny-rift</i><br /> ...of the (uncanny) Digital-Divide 
+
+![The Uncanny Valley](https://images.newscientist.com/wp-content/uploads/2018/06/12140440/gettyimages-956748138-800x533.jpg)
+ 
+ ## Uncanny
+ ![O OMG OMEGA]http://2.bp.blogspot.com/QoimLCgqEUYj0yqbgHWH9F6z6oP5Srrg3O51sAxllW1iqnOe3w3fBNPo7mEo_-jhsoJSsqxbFpxO=s1600)
+ 
+ - rifts: both finite and infinite
 
 ## By promiting open-source best-practices in the social realms
-- (remember it's infinite)
+
+- infinite social realms
+![unicorns](https://cdn.tutsplus.com/webdesign/uploads/2014/01/spirit-animal.jpg)
 
 ## JOIN us as contirbutors and start-up this _funky_ community
 
 ## CSR | Corporate Social Responsibility
+
  So you're telling me...
  <img src="http://www.quickmeme.com/img/03/03bdfeb0940d49b4e2321e5f63df38cb376e59289cb1a25fffa38ee303a4c2cc.jpg" width="200" height="200" />
  
 ## Greenwashing
+
 Major issue in the social dimension
  <img src="http://www.theglobalbeauty.com/wp-content/uploads/2016/10/image221-washed.jpeg" width="200" height="200" />
 
 ## What the SDG is all about?
+
 [UNDP | Sustainable Development Goals](http://www.undp.org/content/undp/en/home/sustainable-development-goals.html)
  - 193 countries signed 
  - Specific 17 *Goals*, each w/ *Targets* and ~340 *Indicators*
@@ -38,6 +49,7 @@ Major issue in the social dimension
 
 
 ## They're Setting the course for the next decade
+
  - Adopting SDG means: *Duty of SDG Reporting (country)*
  - Corporates and Countries have to work together
  - Parameters are presets of specific best-practices
@@ -54,6 +66,9 @@ Major issue in the social dimension
 
 ## Program first | by design
 
+you can *share* social programs the same way!
+_using markdown_ makes publishing easy
+
 ``` js
 //pseudo-code
 social.from('#mySocialProgram', [
@@ -69,7 +84,9 @@ social.from('#mySocialProgram', [
 ```
 
 
-## Every instance is a separate module
+## Every instance you create
+
+is a separate module of the original one
 
 ``` js
 //pseudo-code
@@ -81,12 +98,13 @@ var index  = require('SDG-index'),
     etc...
 ```
 
+you can share any content on opensource platforms
 
-## Social Programs _have_ functions
+## Social Programs _have_ functions too
 
 ``` js
 //pseudo-code
-social.module.exports = function(options) {
+social.module.exports = function(myData, yourData) {
   return function(deck) {
     deck.next();
     deck.prev();
@@ -97,13 +115,16 @@ social.module.exports = function(options) {
 
 
 ## An API to track KPI's
+
 ![SDG Index](https://dashboards.sdgindex.org/#/)
 - Using it teaches you how it works
 - Driven by Open-data. Powered by research institute
 - Actors are encouraged to create source-code and APIs
 * [Bonus: F18 Authoring API](https://18f.gsa.gov/)
 
+
 ## Authoring experience?
+
 UP20 Aims at *Bridging the Digital Divide*
 we encourage...
    - Definitions, Policy, Content
@@ -112,7 +133,8 @@ we encourage...
 => Marketplace for Social Innovation (!)
 
 
-## Perfect for collaborating<br />"no perfect solution"
+## Perfect for collaborating<br />
+> remember - no perfect solution
 
 
 ## Repos provide a safe space for your crazy experiments
