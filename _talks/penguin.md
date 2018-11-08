@@ -13,21 +13,19 @@ layout:    bespoke
 
 ## UP20 <br /> is a Social Program Marketplace
 
-## UP20 boldly facing the <i>uncanny-rift</i> of the (uncanny) Digital-Divide 
+## UP20 boldly facing the <i>uncanny-rift</i> 
 
 <img src="https://images.newscientist.com/wp-content/uploads/2018/06/12140440/gettyimages-956748138-800x533.jpg" width="200" height="200"/>
-The Uncanny Valley
  
  
- ## Uncanny
+ ## of the (even more uncanny) Digital-Divide 
  
  <img src="http://2.bp.blogspot.com/QoimLCgqEUYj0yqbgHWH9F6z6oP5Srrg3O51sAxllW1iqnOe3w3fBNPo7mEo_-jhsoJSsqxbFpxO=s1600" width="200" height="200"/>
 
 
 ## By promiting open-source best-practices in the social realms
 
-- infinite social realms
-![unicorns](https://cdn.tutsplus.com/webdesign/uploads/2014/01/spirit-animal.jpg)
+<img src="https://cdn.tutsplus.com/webdesign/uploads/2014/01/spirit-animal.jpg" height="200" width="200" />
 
 ## JOIN us as contirbutors and start-up our <i>funky</i> community
 
