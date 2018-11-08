@@ -17,7 +17,7 @@ layout:    bespoke
 <img src="https://images.newscientist.com/wp-content/uploads/2018/06/12140440/gettyimages-956748138-800x533.jpg" width="200" height="200"/>
  
  
- ## of the (even more uncanny) Digital-Divide 
+## of the (even more uncanny) Digital-Divide 
  
  <img src="http://2.bp.blogspot.com/QoimLCgqEUYj0yqbgHWH9F6z6oP5Srrg3O51sAxllW1iqnOe3w3fBNPo7mEo_-jhsoJSsqxbFpxO=s1600" width="200" height="200"/>
 
