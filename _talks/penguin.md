@@ -12,14 +12,15 @@ layout:    bespoke
 
 ## UP20 is a Social Program Marketplace
 
+
 ## UP20 boldly facing the uncanny-rift
 
 <img src="https://images.newscientist.com/wp-content/uploads/2018/06/12140440/gettyimages-956748138-800x533.jpg" width="200" height="200"/>
  
  
 ## of the (even more uncanny) Digital-Divide 
- 
- <img src="http://2.bp.blogspot.com/QoimLCgqEUYj0yqbgHWH9F6z6oP5Srrg3O51sAxllW1iqnOe3w3fBNPo7mEo_-jhsoJSsqxbFpxO=s1600" width="200" height="200"/>
+
+<img src="http://2.bp.blogspot.com/QoimLCgqEUYj0yqbgHWH9F6z6oP5Srrg3O51sAxllW1iqnOe3w3fBNPo7mEo_-jhsoJSsqxbFpxO=s1600" width="200" height="200"/>
 
 
 ## By promiting open-source best-practices in the social realms
@@ -31,9 +32,9 @@ layout:    bespoke
 
 ## CSR | Corporate Social Responsibility
 
- So you're telling me...  
+So you're telling me...  
   
- <img src="http://www.quickmeme.com/img/03/03bdfeb0940d49b4e2321e5f63df38cb376e59289cb1a25fffa38ee303a4c2cc.jpg" width="200" height="200" />
+<img src="http://www.quickmeme.com/img/03/03bdfeb0940d49b4e2321e5f63df38cb376e59289cb1a25fffa38ee303a4c2cc.jpg" width="200" height="200" />
  
  
 ## Downside | Greenwashing
@@ -49,8 +50,7 @@ Social Progams must develop their own growth strategies
 <img src="http://nightflight.com/wp-content/uploads/CHARITY-WATER-2-425x431.jpg" width="200" height="200" />
 
 
-## What the SDG is all about?
-
+## What the SDG is all about?  
 [UNDP | Sustainable Development Goals](http://www.undp.org/content/undp/en/home/sustainable-development-goals.html)
 
  - 193 countries signed 
@@ -67,7 +67,7 @@ Social Progams must develop their own growth strategies
  - Programs develop specific best-practices
 
 
-## SDG features over time:
+## SDG | features over time
 
 - Manages state(s)
 - Handles country input
