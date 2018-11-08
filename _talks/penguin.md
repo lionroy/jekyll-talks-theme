@@ -13,15 +13,15 @@ layout:    bespoke
 
 ## UP20 <br /> is a Social Program Marketplace
 
-## UP20 boldly facing the <i>uncanny-rift</i><br /> ...of the (uncanny) Digital-Divide 
+## UP20 boldly facing the <i>uncanny-rift</i> of the (uncanny) Digital-Divide 
 
-![The Uncanny Valley](https://images.newscientist.com/wp-content/uploads/2018/06/12140440/gettyimages-956748138-800x533.jpg)
+<img src="https://images.newscientist.com/wp-content/uploads/2018/06/12140440/gettyimages-956748138-800x533.jpg" width="200" height="200"/>
+The Uncanny Valley
  
  
  ## Uncanny
- ![O OMG OMEGA]http://2.bp.blogspot.com/QoimLCgqEUYj0yqbgHWH9F6z6oP5Srrg3O51sAxllW1iqnOe3w3fBNPo7mEo_-jhsoJSsqxbFpxO=s1600)
  
- - rifts: both finite and infinite
+ <img src="http://2.bp.blogspot.com/QoimLCgqEUYj0yqbgHWH9F6z6oP5Srrg3O51sAxllW1iqnOe3w3fBNPo7mEo_-jhsoJSsqxbFpxO=s1600" width="200" height="200"/>
 
 
 ## By promiting open-source best-practices in the social realms
@@ -46,13 +46,15 @@ Major issue in the social dimension
 
 ## Sunny-Side | Ecosystems
 
-Social Progams today develop their own growth strategies
+Social Progams must develop their own growth strategies
+
 <img src="http://nightflight.com/wp-content/uploads/CHARITY-WATER-2-425x431.jpg" width="200" height="200" />
 
 
 ## What the SDG is all about?
 
 [UNDP | Sustainable Development Goals](http://www.undp.org/content/undp/en/home/sustainable-development-goals.html)
+
  - 193 countries signed 
  - Specific 17 *Goals*, each w/ *Targets* and ~340 *Indicators*
  - Each goal has set of specific parameters (aka. KPI)
@@ -192,7 +194,9 @@ UP20 is based on the belief together we can
 
 ## Make our day. <br /> 
 
-![Become Resourceful](https://memegenerator.net/img/instances/67326442/open-source-needs-you.jpg)
+![Bec Resourceful](https://memegenerator.net/img/instances/67326442/open-source-needs-you.jpg)
 
-Start your first PR today...
 
+## Start your first PR today...  
+
+https://github.com/lionroy/UP20
