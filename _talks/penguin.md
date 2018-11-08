@@ -3,15 +3,14 @@
 ###    see https://github.com/markdalgleish/presentation-a-bespoke-ecosystem/blob/master/src/index.jade for source
 ###
 
-title:     SDG Marketplace  
+title:     UP20 SDG Marketplace  
 subtitle:  Sustainable Development Goals Ecosystem
 author:    Roy Leon
 date:      November 9, 2018
 layout:    bespoke
 ---
 
-
-## UP20 <br /> is a Social Program Marketplace
+## UP20 is a Social Program Marketplace
 
 ## UP20 boldly facing the <i>uncanny-rift</i> 
 
