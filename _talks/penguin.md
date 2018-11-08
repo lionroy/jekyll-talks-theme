@@ -12,7 +12,7 @@ layout:    bespoke
 
 ## UP20 is a Social Program Marketplace
 
-## UP20 boldly facing the <i>uncanny-rift</i> 
+## UP20 boldly facing the uncanny-rift
 
 <img src="https://images.newscientist.com/wp-content/uploads/2018/06/12140440/gettyimages-956748138-800x533.jpg" width="200" height="200"/>
  
@@ -25,6 +25,7 @@ layout:    bespoke
 ## By promiting open-source best-practices in the social realms
 
 <img src="https://cdn.tutsplus.com/webdesign/uploads/2014/01/spirit-animal.jpg" height="200" width="200" />
+
 
 ## JOIN us as contirbutors and start-up our <i>funky</i> community
 
