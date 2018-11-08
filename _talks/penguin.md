@@ -141,7 +141,7 @@ social.module.exports = function(myData, yourData) {
 - Global datasets by country from World Bank 
 - Driven by Open-data. Powered by research institute
 - Actors are encouraged to create source-code and APIs
-* [Bonus: F18 Authoring API](https://18f.gsa.gov/)
+* [Bonus: 18f Authoring API](https://18f.gsa.gov/)
 
 
 ## 2018 | The Challenge
