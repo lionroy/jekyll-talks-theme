@@ -22,10 +22,12 @@ layout:    bespoke
 ## JOIN us as contirbutors and start-up this _funky_ community
 
 ## CSR | Corporate Social Responsibility
- ![So you're telling me...](http://www.quickmeme.com/img/03/03bdfeb0940d49b4e2321e5f63df38cb376e59289cb1a25fffa38ee303a4c2cc.jpg)
+ So you're telling me...
+ <img src="http://www.quickmeme.com/img/03/03bdfeb0940d49b4e2321e5f63df38cb376e59289cb1a25fffa38ee303a4c2cc.jpg" width="200" height="200" />
  
 ## Greenwashing
-  ![Greenwash](http://www.theglobalbeauty.com/wp-content/uploads/2016/10/image221-washed.jpeg)
+Major issue in the social dimension
+ <img src="http://www.theglobalbeauty.com/wp-content/uploads/2016/10/image221-washed.jpeg" width="200" height="200" />
 
 ## What the SDG is all about?
 [UNDP | Sustainable Development Goals](http://www.undp.org/content/undp/en/home/sustainable-development-goals.html)
@@ -43,16 +45,17 @@ layout:    bespoke
 
 ## SDG features over time:
 
-- Manages state
+- Manages state(s)
 - Handles country input
 - Country handles NGO input
 - Adds KPI to exising programs
 - Acquire and run programs
 
 
-## Plugin first design
+## Program first | by design
 
-``` pseudo-code
+``` js
+//pseudo-code
 social.from('#mySocialProgram', [
   country()
   goals(),
@@ -69,6 +72,7 @@ social.from('#mySocialProgram', [
 ## Every instance is a separate module
 
 ``` js
+//pseudo-code
 var index  = require('SDG-index'),
     classes  = require('SDG-classes'),
     keys     = require('SDG-keys'),
@@ -80,7 +84,8 @@ var index  = require('SDG-index'),
 
 ## Social Programs _have_ functions
 
-``` pseudo-code
+``` js
+//pseudo-code
 social.module.exports = function(options) {
   return function(deck) {
     deck.next();
